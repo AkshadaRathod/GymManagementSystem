@@ -1,0 +1,11 @@
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Login.resources
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.MembersForm.resources
+C:\Users\Akshu\Desktop\My .NET\GymManagement\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Home.resources
